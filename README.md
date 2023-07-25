@@ -6,13 +6,11 @@ Installation
 Clone this repository to your local machine.
 Make sure you have Node.js and npm installed.
 Navigate to the project directory and run the following command to install dependencies:
-bash
 
-npm install
+` npm install `
 After the installation is complete, run the development server:
-bash
 
-npm run serve
+`npm run dev`
 Open your web browser and go to http://localhost:8080 to access the app.
 
 Features
